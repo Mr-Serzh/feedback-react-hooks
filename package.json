@@ -1,8 +1,8 @@
 {
-  "name": "goit-react-hw-09-feedback",
+  "name": "feedback-react-hooks",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Mr-Serzh.github.io/goit-react-hw-09-feedback",
+  "homepage": "https://Mr-Serzh.github.io/feedback-react-hooks",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.6",
     "@testing-library/react": "^11.2.2",
