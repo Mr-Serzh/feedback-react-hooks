@@ -23,7 +23,7 @@ export default function FeedbackOptions({ options, onLeaveFeedback }) {
   );
 }
 
-FeedbackOptions.propTypes = {
-  options: PropTypes.objectOf(PropTypes.number).isRequired,
-  onLeaveFeedback: PropTypes.func.isRequired,
-};
+// FeedbackOptions.propTypes = {
+//   options: PropTypes.objectOf(PropTypes.number).isRequired,
+//   onLeaveFeedback: PropTypes.func.isRequired,
+// };
